@@ -4,7 +4,6 @@ import 'package:meetingreminder/app/modules/homepage/controllers/bottom_nav_cont
 import 'package:meetingreminder/app/modules/homepage/controllers/container_controller.dart';
 import 'package:meetingreminder/app/modules/homepage/controllers/meeting_counter.dart';
 import 'package:meetingreminder/app/modules/homepage/controllers/timepicker_controller.dart';
-import 'package:meetingreminder/shared_widgets/confirm_dialog.dart';
 
 class TimelineView extends StatefulWidget {
   const TimelineView({super.key});

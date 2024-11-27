@@ -6,7 +6,6 @@ import 'package:meetingreminder/app/modules/homepage/controllers/meeting_counter
 import 'package:meetingreminder/app/services/notification_services.dart';
 import 'package:meetingreminder/shared_widgets/custom_snackbar.dart';
 import 'package:intl/intl.dart';
-import 'package:meetingreminder/models/container.dart';
 
 void alarmCallback() {
   print("Alarm Triggered!");
